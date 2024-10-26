@@ -28,7 +28,7 @@ html {
 	border-radius: 1rem;
 }
 
-.loginContainer button {
+/* .loginContainer button {
 	background-color: #4caf50;
 	color: white;
 	font-size: 1rem;
@@ -37,4 +37,7 @@ html {
 	outline: none;
 	border-radius: 1rem;
 	padding: 1rem;
+} */
+.errorText {
+	color: red;
 }
